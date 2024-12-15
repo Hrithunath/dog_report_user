@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "466231871448",
+    "firebase_url": "https://ecommerce-32415-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ecommerce-32415",
+    "storage_bucket": "ecommerce-32415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466231871448:android:16ae62f7eb865570ed54ad",
+        "android_client_info": {
+          "package_name": "com.example.stray_dog_report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466231871448-0hgn57lgsdeu85b5b01vjj9v4lm83ifj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stray_dog_report",
+            "certificate_hash": "dde9c14ed226e43a1f0c38fc8d3df8ae7f602cfc"
+          }
+        },
+        {
+          "client_id": "466231871448-tlcqnr2omuvehfjldcnmo9gjjcuoplsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWc_gu-28lmUAnIT0wpY5KCos9qxrZpdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466231871448-tlcqnr2omuvehfjldcnmo9gjjcuoplsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466231871448:android:61c18da01e58f2eeed54ad",
+        "android_client_info": {
+          "package_name": "com.hrithu.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466231871448-blfjk8fc9vko90fv40vp3v77dr5uo872.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrithu.shop",
+            "certificate_hash": "dde9c14ed226e43a1f0c38fc8d3df8ae7f602cfc"
+          }
+        },
+        {
+          "client_id": "466231871448-tlcqnr2omuvehfjldcnmo9gjjcuoplsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWc_gu-28lmUAnIT0wpY5KCos9qxrZpdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466231871448-tlcqnr2omuvehfjldcnmo9gjjcuoplsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
